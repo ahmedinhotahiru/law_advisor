@@ -1,0 +1,13 @@
+/* Target the chat toggle button */
+.css-1ie5use {
+    background-color: #00aa55 !important; /* Use the green pulse color */
+    border-color: #00aa55 !important;
+    color: white !important; /* Keep the icon color white */
+    box-shadow: rgba(0, 170, 85, 0.2) 0px 4px 10px 0px !important; /* Optional: adjust shadow */
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Optional: Add hover effect */
+.css-1ie5use:hover {
+    background-color: #008844 !important; /* A slightly darker green for hover */
+}

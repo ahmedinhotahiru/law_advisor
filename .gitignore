@@ -1,0 +1,4 @@
+law_env/
+venv
+.env
+.venv
